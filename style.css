@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.parent{
+    height: 50%;
+    width: 50%;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+.child1{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(19, 23, 238);
+}
+.child2{
+    height: 100%;
+    width: 50%;
+    background-color: rgb(214, 14, 14);
+}
+.parent1{
+    justify-content: center;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    gap: 5px;
+}
+.box{
+    height: 80%;
+    width: 40%;
+    background-color: rgb(230, 210, 173);  
+    display: flex;
+    align-items: flex-end;
+}
+.box1{
+    height: 40%;
+    width: 40%;
+    background-color: rgb(144, 166, 238);
+ 
+}
+.boxx{
+    height: 80%;
+    width: 40%;
+    background-color: rgb(230, 173, 185);
+    display: flex;
+    justify-content: end;
+}
+.box2{
+    height: 40%;
+    width: 40%;
+    background-color: rgb(144, 208, 238);
+}
+.parentt{
+    height: 50%;
+    width: 50%;
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+.boox1{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(135, 235, 160);
+}
+.boox2{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(238, 200, 144);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boox3{
+    height: 100%;
+    width: 40%;
+    background-color: rgb(235, 228, 135);
+}
+.booox{
+    height: 60%;
+    width: 20%;
+    background-color: rgb(0, 21, 139);
+}
+.pparent{
+    height: 50%;
+    width: 50%;
+    gap: 5px;
+    display: flex;
+    justify-content: center;  
+}
+.bbox1{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(235, 135, 135);
+}
+.bbox2{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(0, 204, 255);
+}
+.bbox3{
+    height: 100%;
+    width: 25%;
+    background-color: rgb(135, 235, 148);
+}
+.pparent1{
+    height: 100%;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.bbox4{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(139, 51, 0);
+}
+.bbox5{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(126, 61, 139);    
+}
+ 
